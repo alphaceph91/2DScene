@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\eglee\Dropbox\My PC (LAPTOP-3UPI2CN3)\Desktop\05a-TextureQuad\DrawQuad\main.cpp(364): warning C4715: 'loadShaders': not all control paths return a value
+  DrawQuad.vcxproj -> C:\Users\eglee\Dropbox\My PC (LAPTOP-3UPI2CN3)\Desktop\05a-TextureQuad\Debug\DrawQuad.exe

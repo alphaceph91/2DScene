@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (DrawQuad.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  glad.cpp
+  main.cpp
+E:\E-STUDY\BOOKS\FH OOE, AUSTRIA\1st Semester-REPEAT\IM420-Adv. Computer Graphics\Assignments\Assignment 2-Fixed\Assignment 2\DrawQuad\main.cpp(345,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\E-STUDY\BOOKS\FH OOE, AUSTRIA\1st Semester-REPEAT\IM420-Adv. Computer Graphics\Assignments\Assignment 2-Fixed\Assignment 2\DrawQuad\main.cpp(346,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\E-STUDY\BOOKS\FH OOE, AUSTRIA\1st Semester-REPEAT\IM420-Adv. Computer Graphics\Assignments\Assignment 2-Fixed\Assignment 2\DrawQuad\main.cpp(469,1): warning C4005: 'USE_INDEX_BUFFER': macro redefinition
+E:\E-STUDY\BOOKS\FH OOE, AUSTRIA\1st Semester-REPEAT\IM420-Adv. Computer Graphics\Assignments\Assignment 2-Fixed\Assignment 2\DrawQuad\main.cpp(12): message : see previous definition of 'USE_INDEX_BUFFER'
+  Generating Code...
+E:\E-STUDY\BOOKS\FH OOE, AUSTRIA\1st Semester-REPEAT\IM420-Adv. Computer Graphics\Assignments\Assignment 2-Fixed\Assignment 2\DrawQuad\main.cpp(375): warning C4715: 'loadShaders': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+soil.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'soil.lib(image_DXT.obj)' or at 'E:\E-STUDY\BOOKS\FH OOE, AUSTRIA\1st Semester-REPEAT\IM420-Adv. Computer Graphics\Assignments\Assignment 2-Fixed\Assignment 2\x64\Debug\SOIL.pdb'; linking object as if no debug info
+soil.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'soil.lib(image_helper.obj)' or at 'E:\E-STUDY\BOOKS\FH OOE, AUSTRIA\1st Semester-REPEAT\IM420-Adv. Computer Graphics\Assignments\Assignment 2-Fixed\Assignment 2\x64\Debug\SOIL.pdb'; linking object as if no debug info
+soil.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'soil.lib(SOIL.obj)' or at 'E:\E-STUDY\BOOKS\FH OOE, AUSTRIA\1st Semester-REPEAT\IM420-Adv. Computer Graphics\Assignments\Assignment 2-Fixed\Assignment 2\x64\Debug\SOIL.pdb'; linking object as if no debug info
+soil.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'soil.lib(stb_image_aug.obj)' or at 'E:\E-STUDY\BOOKS\FH OOE, AUSTRIA\1st Semester-REPEAT\IM420-Adv. Computer Graphics\Assignments\Assignment 2-Fixed\Assignment 2\x64\Debug\SOIL.pdb'; linking object as if no debug info
+  DrawQuad.vcxproj -> E:\E-STUDY\BOOKS\FH OOE, AUSTRIA\1st Semester-REPEAT\IM420-Adv. Computer Graphics\Assignments\Assignment 2-Fixed\Assignment 2\x64\Debug\Assignment.exe
